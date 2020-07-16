@@ -5,7 +5,7 @@ import com.atguigu.springcloud.entities.Payment;
 import org.springframework.stereotype.Component;
 
 /**
- * @auther zzyy
+ * @auther wth
  * @create 2020-02-25 18:30
  */
 @Component

@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.cloud.netflix.ribbon.RibbonClients;
 
 /**
- * @auther zzyy
+ * @auther wth
  * @create 2020-02-18 17:20
  */
 @SpringBootApplication
